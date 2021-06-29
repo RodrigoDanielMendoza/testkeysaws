@@ -1,2 +1,2 @@
-userkey = "AKIAVZ4B6OIWIMBZWL67"
-userpkey = "+uqWcKTpHelIEnR+T3MgJUq3TyZ3g8clhy3sxHB1"
+userkey = "AKIAVZ4B6OIWAO6MZRQT"
+userpkey = "qWrc34/OQrTnZb5lNB15OjQlH96XjnTlTdIYLBJ+"
